@@ -54,6 +54,7 @@ comme recommandations nous avons:
 * faire la surveillance continue des logs pour détecter les comportements suspects
 * faire former le personnel sur les meilleures pratiques de sécurité
 * mettre en place un plan de réponse aux incidents de sécurité pour une réponse rapide et efficace en cas.
+
 CONCLUSION GENERALE
 ====================
 
