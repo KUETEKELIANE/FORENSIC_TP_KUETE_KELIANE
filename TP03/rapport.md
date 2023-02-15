@@ -9,8 +9,8 @@ METHODOLOGIE
 =============
 RESULTATS
 ==========
-CONCUSION
-========== 
+CONCLUSION
+==========
 RECOMMANDATIONS
 ================
 CONCLUSION GENERALE
